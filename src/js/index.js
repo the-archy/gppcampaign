@@ -1,7 +1,7 @@
 import { claims, generators } from "./data.js";
 import { splitText, pickRandom, getAverageLuminance } from "./helperFunctions.js";
 
-const LOGO_OFFSET_X = 525;
+const LOGO_OFFSET_X = 300;
 const LOGO_OFFSET_Y = 20;
 const LUMINANCE_THRESHOLD = 0.7;
 
